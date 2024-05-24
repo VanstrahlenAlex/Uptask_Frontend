@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { PinInput, PinInputField} from "@chakra-ui/pin-input"
 import { useState } from "react";
 import { ConfirmToken } from "@/types/index";
